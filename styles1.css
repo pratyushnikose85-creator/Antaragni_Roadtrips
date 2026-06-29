@@ -37,13 +37,12 @@ img {
 
 /* image 7 */
 .image-7-2 {
-  width: 724px;
-  height: 677px;
-  left: 646px;
-  top: 122px;
-  z-index: 2;
+width: 724px;
+height: 677px;
+left: 646px;
+top: 122px;
+z-index: 2;
 }
-
 /* image 8 */
 /* image 8 - this is the background layer with spiral */
 .image-8-3 {
@@ -55,12 +54,20 @@ img {
   opacity: 0.55;
   transform: matrix(-1, 0, 0, 1, 0, 0);
 }
-
+/* image 10 */
+.image-10 {
+  position: absolute;
+  width: 761px;
+  height: 133px;
+  left: 537px;
+  top: 0px;
+  background: url('image-10-4.png');
+}
 /* image 9 */
 .image-9-4 {
-  width: 720px;
-  height: 641px;
-  left: 36px;
-  top: 135px;
-  z-index: 3;
+width: 720px;
+height: 641px;
+left: 36px;
+top: 135px;
+z-index: 3;
 }
